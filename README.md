@@ -1,3 +1,5 @@
+# This will be fusion whit [Terminator](https://github.com/MultivetisMc/Terminator/)
+
 # AntiBot
 Lightweight and highly customizable plugin that aims to stop attacks on your BungeeCord server quickly and efficiently.
 
